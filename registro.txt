@@ -7,3 +7,5 @@ Habia un chico de playas caribeñas que solo pensaba en computadoras.
 Hizo un viaje a la ciudad para poder descrubrir mas el mundo de los ordenadores investigo 
 encontro alguien que le enseñaria y le dejo de tarea subir commits y asi poco a poco aprendio
 hacer commits.
+
+Cambios en la nueva Rama: desarrollo.
